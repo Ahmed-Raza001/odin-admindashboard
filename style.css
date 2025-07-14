@@ -115,3 +115,8 @@ body {
     display: grid;
     grid-template-columns: 70% 30%;
 }
+
+.cards {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
