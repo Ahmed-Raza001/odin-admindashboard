@@ -122,15 +122,15 @@ body {
 }
 
 .cards {
-    background-color: white;
+    /*background-color: white;
     border-left: 5px solid #facc15;
-    border-radius: 10px;
+    border-radius: 10px;*/
     width: 80%;
     height: 150px;
     margin: 15px 0;
     margin-left: 20px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: flex-start;
     padding-left: 10px;
